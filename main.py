@@ -99,3 +99,5 @@ else:
                 db_connection.commit()
                 st.warning('Voce excluiu o item:')
                 st.text(deleted_item)
+
+# teste de comiit changes on git hub
